@@ -23,7 +23,7 @@ main {
 }
 
 .textField {
-  margin-bottom: 2rem;
+  margin-bottom: 2rem !important;
 }
 form {
   max-width: 50%;
